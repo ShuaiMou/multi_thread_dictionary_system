@@ -1,0 +1,18 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+multi_thread_dictionary_system_client/.gitignore
+multi_thread_dictionary_system_client/.idea/compiler.xml
+multi_thread_dictionary_system_client/.idea/libraries/
+multi_thread_dictionary_system_client/.idea/misc.xml
+multi_thread_dictionary_system_client/.idea/modules.xml
+multi_thread_dictionary_system_client/.idea/workspace.xml
+multi_thread_dictionary_system_client/pom.xml
+multi_thread_dictionary_system_client/src/main/java/
+multi_thread_dictionary_system_client/src/main/resources/
+multi_thread_dictionary_system_client/target/classes/
+multi_thread_dictionary_system_server/.gitignore
+multi_thread_dictionary_system_server/README.md
+multi_thread_dictionary_system_server/dictionary.properties
+multi_thread_dictionary_system_server/pom.xml
+multi_thread_dictionary_system_server/src/main/java/saul/
+multi_thread_dictionary_system_server/src/main/resources/
